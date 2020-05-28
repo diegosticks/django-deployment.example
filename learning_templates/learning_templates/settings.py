@@ -26,7 +26,7 @@ SECRET_KEY = '4bd5)n^y-#yeft(f3mr2*sh!v2ty60qhpo=c(&^j$)7q=nho)j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['diegosticks.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
